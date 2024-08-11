@@ -150,6 +150,7 @@ yahoo.co.jp##a:has-text(/人の特徴/)
 yahoo.co.jp##a:has-text(/ランキング/)
 yahoo.co.jp##a:has-text(/バッシング/)
 yahoo.co.jp##a:has-text(/Z世代/)
+yahoo.co.jp##a:has-text(/スタメン】/)
 
 ! NG words 3: just not interested
 yahoo.co.jp##li:has-text(/スポーツナビ/)
