@@ -53,6 +53,12 @@ yahoo.co.jp##li:has-text(/toto/)
 ! NG words 1: sources
 yahoo.co.jp##a:has-text(/SPA！/)
 yahoo.co.jp##a:has-text(/週刊女性/)
+yahoo.co.jp##a:has-text(/週刊SPA!/)
+yahoo.co.jp##a:has-text(/女性自身/)
+yahoo.co.jp##a:has-text(/夕刊フジ/)
+yahoo.co.jp##a:has-text(/東洋経済/)
+yahoo.co.jp##a:has-text(/MANTANWEB/)
+yahoo.co.jp##a:has-text(/KOIGAKU/)
 yahoo.co.jp##a:has-text(/文春/)
 yahoo.co.jp##a:has-text(/デイリー新潮/)
 yahoo.co.jp##a:has-text(/ポストセブン/)
@@ -117,7 +123,8 @@ yahoo.co.jp##a:has-text(/クーリエ・ジャポン/)
 yahoo.co.jp##a:has-text(/オトナンサー/)
 yahoo.co.jp##a:has-text(/LIMO/)
 yahoo.co.jp##a:has-text(/よろず～ニュース/)
-! NG words 2: hate words
+
+! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
 yahoo.co.jp##a:has-text(/炎上/)
 yahoo.co.jp##a:has-text(/不倫/)
@@ -142,6 +149,7 @@ yahoo.co.jp##a:has-text(/人の特徴/)
 yahoo.co.jp##a:has-text(/ランキング/)
 yahoo.co.jp##a:has-text(/バッシング/)
 yahoo.co.jp##a:has-text(/Z世代/)
+
 ! NG words 3: just not interested
 yahoo.co.jp##li:has-text(/スポーツナビ/)
 yahoo.co.jp##a:has-text(/乗りものニュース/)
@@ -164,11 +172,11 @@ yahoo.co.jp##a:has-text(/webスポルティーバ/)
 yahoo.co.jp##a:has-text(/週刊ベースボール/)
 yahoo.co.jp##a:has-text(/ベースボールキング/)
 yahoo.co.jp##a:has-text(/ベースボールチャンネル/)
+yahoo.co.jp##a:has-text(/プロレス/)
 
 ! 2024/08/05 https://news.yahoo.co.jp
 news.yahoo.co.jp##.riff-text-current.kPdJRG.sc-jksony-1
 news.yahoo.co.jp##.lcEokD.sc-jksony-0
-
 
 ! 2024/08/05 https://news.yahoo.co.jp: link to ヤフコメ
 news.yahoo.co.jp##.hLzvcB
@@ -176,13 +184,6 @@ news.yahoo.co.jp##.eygyzD
 news.yahoo.co.jp##.iGA-DeT
 news.yahoo.co.jp##.hxoMQt
 news.yahoo.co.jp##.kpjOPF
-
-yahoo.co.jp##a:has-text(/週刊SPA!/)
-yahoo.co.jp##a:has-text(/女性自身/)
-yahoo.co.jp##a:has-text(/夕刊フジ/)
-yahoo.co.jp##a:has-text(/東洋経済/)
-yahoo.co.jp##a:has-text(/MANTANWEB/)
-yahoo.co.jp##a:has-text(/KOIGAKU/)
 
 ! Google -> Youtube
 www.google.com##div.MjjYud:has-text(/カツキ / メンタルの専門家/)
