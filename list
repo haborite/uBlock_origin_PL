@@ -123,6 +123,7 @@ yahoo.co.jp##a:has-text(/クーリエ・ジャポン/)
 yahoo.co.jp##a:has-text(/オトナンサー/)
 yahoo.co.jp##a:has-text(/LIMO/)
 yahoo.co.jp##a:has-text(/よろず～ニュース/)
+yahoo.co.jp##a:has-text(/みんかぶマガジン/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
