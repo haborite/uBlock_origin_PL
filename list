@@ -125,6 +125,7 @@ yahoo.co.jp##a:has-text(/LIMO/)
 yahoo.co.jp##a:has-text(/よろず～ニュース/)
 yahoo.co.jp##a:has-text(/みんかぶマガジン/)
 yahoo.co.jp##a:has-text(/ハルメク365/)
+yahoo.co.jp##a:has-text(/AERA dot/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
