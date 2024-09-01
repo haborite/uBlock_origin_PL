@@ -132,6 +132,7 @@ yahoo.co.jp##a:has-text(/ニューズウィーク日本版/)
 yahoo.co.jp##a:has-text(/4yuuu/)
 yahoo.co.jp##a:has-text(/4MEEE/)
 yahoo.co.jp##a:has-text(/WEBザテレビジョン/)
+yahoo.co.jp##a:has-text(/beauty news tokyo/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
