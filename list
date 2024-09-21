@@ -166,6 +166,8 @@ yahoo.co.jp##a:has-text(/ランキング/)
 yahoo.co.jp##a:has-text(/バッシング/)
 yahoo.co.jp##a:has-text(/Z世代/)
 yahoo.co.jp##a:has-text(/スタメン】/)
+yahoo.co.jp##a:has-text(/心理テスト/)
+yahoo.co.jp##a:has-text(/脳トレ/)
 
 ! NG words 3: just not interested
 yahoo.co.jp##li:has-text(/スポーツナビ/)
