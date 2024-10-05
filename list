@@ -141,6 +141,7 @@ yahoo.co.jp##a:has-text(/ナナホシ/)
 yahoo.co.jp##a:has-text(/BuzzFeed/)
 yahoo.co.jp##a:has-text(/anan web/)
 yahoo.co.jp##a:has-text(/イーファイト/)
+yahoo.co.jp##a:has-text(/DO-GEN/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
