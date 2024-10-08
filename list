@@ -145,6 +145,7 @@ yahoo.co.jp##a:has-text(/DO-GEN/)
 yahoo.co.jp##a:has-text(/リアルサウンド/)
 yahoo.co.jp##a:has-text(/ハフポスト/)
 yahoo.co.jp##a:has-text(/精神科医しょう/)
+yahoo.co.jp##a:has-text(/saita/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
