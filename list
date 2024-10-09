@@ -147,6 +147,7 @@ yahoo.co.jp##a:has-text(/ハフポスト/)
 yahoo.co.jp##a:has-text(/精神科医しょう/)
 yahoo.co.jp##a:has-text(/saita/)
 yahoo.co.jp##a:has-text(/LASISA/)
+yahoo.co.jp##a:has-text(/Harper's BAZAAR/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
