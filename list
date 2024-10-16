@@ -460,6 +460,9 @@ www.youtube.com##ytd-rich-item-renderer:has-text(/切り抜き/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/ホロライブ/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/にじさんじ/)
 
+! Youtube
+www.youtube.com###dismissible:has-text(/切り抜き/)
+
 ! 2024/08/05 https://www.youtube.com
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
 www.youtube.com###content > .ytd-rich-section-renderer.style-scope
