@@ -152,6 +152,7 @@ yahoo.co.jp##a:has-text(/ハーパーズ バザー/)
 yahoo.co.jp##a:has-text(/マグミクス/)
 yahoo.co.jp##a:has-text(/mi-mollet/)
 yahoo.co.jp##a:has-text(/KOREA WAVE/)
+yahoo.co.jp##a:has-text(/朝鮮日報日本語版/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
