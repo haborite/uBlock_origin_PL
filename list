@@ -350,8 +350,8 @@ www.youtube.com##ytd-compact-video-renderer:has-text(/BASEBALL KING/)
 www.youtube.com##ytd-compact-video-renderer:has-text(/PIVOT/)
 www.youtube.com##ytd-compact-video-renderer:has-text(/佐倉あましん/)
 www.youtube.com##ytd-compact-video-renderer:has-text(/切り抜き/)
-www.youtube.com##ytd-compact-video-renderer:has-text(/ホロライブ/)
-www.youtube.com##ytd-compact-video-renderer:has-text(/にじさんじ/)
+! www.youtube.com##ytd-compact-video-renderer:has-text(/ホロライブ/)
+! www.youtube.com##ytd-compact-video-renderer:has-text(/にじさんじ/)
 
 ! Youtube
 www.youtube.com##ytd-rich-item-renderer:has-text(/【朗報】/)
@@ -466,8 +466,8 @@ www.youtube.com##ytd-rich-item-renderer:has-text(/BASEBALL KING/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/PIVOT/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/佐倉あましん/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/切り抜き/)
-www.youtube.com##ytd-rich-item-renderer:has-text(/ホロライブ/)
-www.youtube.com##ytd-rich-item-renderer:has-text(/にじさんじ/)
+! www.youtube.com##ytd-rich-item-renderer:has-text(/ホロライブ/)
+! www.youtube.com##ytd-rich-item-renderer:has-text(/にじさんじ/)
 
 ! Youtube
 www.youtube.com###dismissible:has-text(/【朗報】/)
@@ -582,8 +582,8 @@ www.youtube.com###dismissible:has-text(/BASEBALL KING/)
 www.youtube.com###dismissible:has-text(/PIVOT/)
 www.youtube.com###dismissible:has-text(/佐倉あましん/)
 www.youtube.com###dismissible:has-text(/切り抜き/)
-www.youtube.com###dismissible:has-text(/ホロライブ/)
-www.youtube.com###dismissible:has-text(/にじさんじ/)
+! www.youtube.com###dismissible:has-text(/ホロライブ/)
+! www.youtube.com###dismissible:has-text(/にじさんじ/)
 
 ! Youtube
 www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/【朗報】/)
