@@ -698,8 +698,8 @@ www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.Sho
 www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/PIVOT/)
 www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/佐倉あましん/)
 www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/切り抜き/)
-www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/ホロライブ/)
-www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/にじさんじ/)
+! www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/ホロライブ/)
+! www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/にじさんじ/)
 
 ! 2024/08/05 https://www.youtube.com
 www.youtube.com##.ytd-rich-section-renderer.style-scope > .ytd-rich-shelf-renderer.style-scope
