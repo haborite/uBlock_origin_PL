@@ -349,7 +349,7 @@ www.youtube.com##ytd-compact-video-renderer:has-text(/TOYA JAPAN/)
 www.youtube.com##ytd-compact-video-renderer:has-text(/BASEBALL KING/)
 www.youtube.com##ytd-compact-video-renderer:has-text(/PIVOT/)
 www.youtube.com##ytd-compact-video-renderer:has-text(/佐倉あましん/)
-www.youtube.com##ytd-compact-video-renderer:has-text(/切り抜き/)
+! www.youtube.com##ytd-compact-video-renderer:has-text(/切り抜き/)
 ! www.youtube.com##ytd-compact-video-renderer:has-text(/ホロライブ/)
 ! www.youtube.com##ytd-compact-video-renderer:has-text(/にじさんじ/)
 
@@ -465,7 +465,7 @@ www.youtube.com##ytd-rich-item-renderer:has-text(/TOYA JAPAN/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/BASEBALL KING/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/PIVOT/)
 www.youtube.com##ytd-rich-item-renderer:has-text(/佐倉あましん/)
-www.youtube.com##ytd-rich-item-renderer:has-text(/切り抜き/)
+! www.youtube.com##ytd-rich-item-renderer:has-text(/切り抜き/)
 ! www.youtube.com##ytd-rich-item-renderer:has-text(/ホロライブ/)
 ! www.youtube.com##ytd-rich-item-renderer:has-text(/にじさんじ/)
 
@@ -581,7 +581,7 @@ www.youtube.com###dismissible:has-text(/TOYA JAPAN/)
 www.youtube.com###dismissible:has-text(/BASEBALL KING/)
 www.youtube.com###dismissible:has-text(/PIVOT/)
 www.youtube.com###dismissible:has-text(/佐倉あましん/)
-www.youtube.com###dismissible:has-text(/切り抜き/)
+! www.youtube.com###dismissible:has-text(/切り抜き/)
 ! www.youtube.com###dismissible:has-text(/ホロライブ/)
 ! www.youtube.com###dismissible:has-text(/にじさんじ/)
 
@@ -697,7 +697,7 @@ www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.Sho
 www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/BASEBALL KING/)
 www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/PIVOT/)
 www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/佐倉あましん/)
-www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/切り抜き/)
+! www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/切り抜き/)
 ! www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/ホロライブ/)
 ! www.youtube.com##ytm-shorts-lockup-view-model-v2.yt-horizontal-list-renderer.ShortsLockupViewModelHost > .yt-horizontal-list-renderer.ShortsLockupViewModelHost:has-text(/にじさんじ/)
 
@@ -713,3 +713,6 @@ news.yahoo.co.jp##.dkQhZw.sc-1hvtvon-3 > .topics_item_comment
 m.yahoo.co.jp##.Topic_Topic__comment__QGosC
 m.yahoo.co.jp##li:has-text(/芸能/)
 m.yahoo.co.jp##li:has-text(/おトク/)
+
+! 2024/12/07 https://www.yahoo.co.jp
+www.yahoo.co.jp##[href^="https://apm.yahoo.co.jp/rd"]
