@@ -153,6 +153,8 @@ yahoo.co.jp##a:has-text(/マグミクス/)
 yahoo.co.jp##a:has-text(/mi-mollet/)
 yahoo.co.jp##a:has-text(/KOREA WAVE/)
 yahoo.co.jp##a:has-text(/朝鮮日報日本語版/)
+yahoo.co.jp##a:has-text(/高英起/)
+yahoo.co.jp##a:has-text(/スマホライフPLUS/)
 
 ! NG words 2: typical words
 yahoo.co.jp##a:has-text(/セクシー/)
