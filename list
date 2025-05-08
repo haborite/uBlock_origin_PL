@@ -256,3 +256,6 @@ m.yahoo.co.jp##li:has-text(/おトク/)
 
 ! 2024/12/07 https://www.yahoo.co.jp
 www.yahoo.co.jp##[href^="https://apm.yahoo.co.jp/rd"]
+
+! 2025/05/08 https://www.google.com
+www.google.com##.NbhJ1c.TBC9ub.yG4QQe
