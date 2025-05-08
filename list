@@ -257,12 +257,11 @@ m.yahoo.co.jp##li:has-text(/おトク/)
 ! 2024/12/07 https://www.yahoo.co.jp
 www.yahoo.co.jp##[href^="https://apm.yahoo.co.jp/rd"]
 
-! Google 検索結果の広告・ノイズ要素非表示（簡潔かつ網羅的）
-www.google.com##.cUnQKe
-www.google.com##.MjjYud
-www.google.com##.ULSxyf
-www.google.com##.kCoste
-www.google.com##.vtSz8d
+! Google
+www.google.com##.NbhJ1c.TBC9ub.yG4QQe
 www.google.com##.Lv2Cle
 www.google.com###bres
-www.google.com##.NbhJ1c.TBC9ub.yG4QQe
+www.google.com##.kCoste.yWNJXb.pESs7c.JI5uCe.YpyODe.xfX4Ac
+www.google.com##.vtSz8d
+www.google.com##.cUnQKe
+www.google.com##.MjjYud
