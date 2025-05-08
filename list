@@ -260,15 +260,10 @@ www.yahoo.co.jp##[href^="https://apm.yahoo.co.jp/rd"]
 ! 2025/05/08 https://www.google.com
 www.google.com##.NbhJ1c.TBC9ub.yG4QQe
 www.google.com##.Lv2Cle
-www.google.com##div.MjjYud:nth-of-type(3)
-www.google.com##div.MjjYud:nth-of-type(4)
-www.google.com##div.MjjYud:nth-of-type(5)
-www.google.com##div.MjjYud:nth-of-type(6)
 www.google.com##div.MjjYud:nth-of-type(7)
 www.google.com###bres
 www.google.com##.kCoste.yWNJXb.pESs7c.JI5uCe.YpyODe.xfX4Ac
 www.google.com##div.ULSxyf:nth-of-type(3)
-www.google.com##div.ULSxyf:nth-of-type(4)
 www.google.com##div.ULSxyf:nth-of-type(5)
 www.google.com##.vtSz8d
 www.google.com###rso > div > div.MjjYud > .cUnQKe
